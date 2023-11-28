@@ -39,4 +39,4 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 O código vem pela metade e a proposta é utilizar os conhecimentos compartilhados no bootcamp p/ conclusão do projeto
 
 ## Bonus
-Adicionei um ASCII formatado para deixar o menu mais bonito, caso queira ver como fiz, assista esse ![vídeo](https://www.youtube.com/watch?v=qAWhGEPMlS8&ab_channel=MichaelHadley)
+Adicionei um ASCII formatado para deixar o menu mais bonito, caso queira ver como fiz, assista esse [vídeo](https://www.youtube.com/watch?v=qAWhGEPMlS8&ab_channel=MichaelHadley)
